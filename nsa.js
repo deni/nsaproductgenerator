@@ -131,6 +131,10 @@ $(function() {
 	    "radio",
 	    "zero-force",
 	    "silent",
+	    "overt",
+	    "killer",
+	    "cloud",
+	    "hybrid",
 	],
 	
 	device_technology: [
@@ -150,6 +154,11 @@ $(function() {
 	    "firmware",
 	    "microcode",
 	    "hardware",
+	    "blockchain",
+	    "quantum computing",
+	    "data mining",
+	
+	    
 	],
 
 	program_noun: [
@@ -161,7 +170,12 @@ $(function() {
 	    "tool",
 	    "system",
 	    "architecture",
-	    "technique"
+	    "technique",
+	    "dongle",
+	    "platform",
+	    "robot",
+	    "artificial intelligence",
+	    "java microservice",	    
 	],
 
 	component: [
@@ -175,7 +189,10 @@ $(function() {
 	    "CPU",
 	    "memory",
 	    "reader",
-	    "cabling"
+	    "cabling",
+	    "radar",
+	    "transistor",
+	    "relay",
 	],
 
 	unit_prefix: [
@@ -228,6 +245,7 @@ $(function() {
 	    "exposure",
 	    "exfiltration",
 	    "interdiction",
+	    "
 	],
 
 	action_verb: [
@@ -256,7 +274,10 @@ $(function() {
 	    "Yahoo",
 	    "Verizon",
 	    "HP",
-	    "Cisco"
+	    "Cisco",
+	    "NCC Group",
+	    "Fox-IT",
+	    "NC3"
 	],
 
 	intelligence_adjective: [
@@ -269,6 +290,8 @@ $(function() {
 	    "ciphered",
 	    "concealed",
 	    "user-defined",
+	    "public",
+	    "invisible",
 	],
 
 	allowed_verb_past: [
@@ -295,7 +318,7 @@ $(function() {
 	    "designed",
 	    "intended",
 	    "created",
-	    "built"
+	    "built",
 	],
 
 	intelligence_noun: [
@@ -310,6 +333,8 @@ $(function() {
 	    "transmit",
 	    "exfiltrate",
 	    "upload",
+	    "corrupt",
+	    
 	],
 
 	partnership_noun: [
@@ -317,6 +342,8 @@ $(function() {
 	    "collaboration",
 	    "alliance",
 	    "joint operation",
+	    "compromise",
+	    "involuntary partnership"		
 	],
 	
 
@@ -348,7 +375,8 @@ $(function() {
 	    "car",
 	    "briefcase",
 	    "pocket",
-	    "cargo container"
+	    "cargo container",
+	    "warehouse"
 	],
 	   
 
@@ -359,7 +387,8 @@ $(function() {
 	    "foreigner",
 	    "target",
 	    "agent",
-	    "journalist"
+	    "journalist",
+	    "russian"
 	],
 
 	gathering_adjective: [
@@ -368,7 +397,8 @@ $(function() {
 	    "brazen",
 	    "narrow",
 	    "targeted",
-	    "systemic"
+	    "systemic",
+	    "agressive"
 	],
 	
 	intercept_stuff: [
@@ -382,6 +412,8 @@ $(function() {
 	    "transactions",
 	    "network traffic",
 	    "keystrokes",
+	    "blockchain transactions",
+	    "signal messages"
 	],
 
 	
